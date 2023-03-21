@@ -24,7 +24,7 @@ body {
   color: hsl(240, 100%, 5%);
 }
 .h3left {
-  width: 334px;
+  width: 359px;
   position: relative;
   top: -41px;
   font-size: 16px;
@@ -73,7 +73,7 @@ body {
 .h3right {
   font-weight: normal;
   color: hsl(233, 8%, 79%);
-  width: 310px;
+  width: 339px;
   font-size: 17px;
 }
 .h2right {
@@ -99,7 +99,7 @@ body {
 }
 .h3bottom {
   font-size: 15px;
-  width: 200px;
+  width: 222px;
   color: hsl(236, 13%, 42%);
   line-height: 19px;
   font-weight: normal;
@@ -108,7 +108,7 @@ body {
   color: hsl(233, 8%, 79%);
 }
 .h2bottom {
-  width: 222px;
+  width: 240px;
   color: hsl(240, 100%, 5%);
   font-size: 20px;
 }
