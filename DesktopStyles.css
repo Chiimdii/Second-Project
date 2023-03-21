@@ -1,0 +1,135 @@
+body {
+  font-family: "Inter", sans-serif;
+}
+.h3top {
+  text-align: right;
+  position: relative;
+  font-size: 19px;
+  top: -54px;
+  word-spacing: 60px;
+  font-weight: normal;
+  color: hsl(236, 13%, 42%);
+}
+.left-container {
+  height: 757px;
+}
+.imagesleft {
+  width: 1032px;
+}
+.h1left {
+  font-size: 87px;
+  width: 416px;
+  font-weight: 750;
+  letter-spacing: -2px;
+  line-height: 84px;
+  top: -17px;
+  position: relative;
+  color: hsl(240, 100%, 5%);
+}
+.h3left {
+  width: 398px;
+  left: 497px;
+  position: relative;
+  top: -326px;
+  font-size: 19px;
+  line-height: 27px;
+  font-weight: normal;
+  color: hsl(236, 13%, 42%);
+}
+.h2left {
+  position: relative;
+  left: 553px;
+  width: 122px;
+  top: -254px;
+  z-index: 3;
+  letter-spacing: 2px;
+  color: hsl(36, 100%, 99%);
+  font-size: 17px;
+}
+.inputleft {
+  width: 243px;
+  height: 57px;
+  position: relative;
+  bottom: 308px;
+  left: 496px;
+  background-color: hsl(5, 85%, 63%);
+  border: transparent;
+}
+.right-container {
+  background-color: hsl(240, 100%, 5%);
+  color: white;
+  position: absolute;
+  left: 1089px;
+  top: 113px;
+  height: 721px;
+  width: 486px;
+}
+.insideright {
+  margin-top: 45px;
+  margin-left: 35px;
+  margin-right: 35px;
+  margin-bottom: 45px;
+  line-height: 43px;
+  font-size: 16px;
+}
+.h1right {
+  font-size: 50px;
+  color: hsl(35, 77%, 62%);
+}
+.h2right {
+  color: hsl(36, 100%, 99%);
+}
+.h3right {
+  font-weight: normal;
+  color: hsl(233, 8%, 79%);
+  width: 340px;
+}
+.bottom-container {
+  height: 237px;
+  top: 95px;
+  position: relative;
+}
+.imagesbottom {
+  width: 140px;
+}
+.Gaming {
+  position: relative;
+  top: -548px;
+  left: 1082px;
+  width: 256px;
+  height: 179px;
+}
+.Laptops {
+  position: relative;
+  top: -370px;
+  left: 505px;
+  width: 100px;
+  height: 178px;
+}
+.textbottom {
+  position: relative;
+  top: -203px;
+  left: 142px;
+  width: 300px;
+  margin-left: 25px;
+}
+.h1bottom {
+  color: hsl(233, 8%, 79%);
+}
+.h2bottom {
+  color: hsl(240, 100%, 5%);
+  width: 275px;
+}
+.h3bottom {
+  width: 240px;
+  font-size: 17px;
+  color: hsl(236, 13%, 42%);
+  line-height: 27px;
+  font-weight: normal;
+}
+.button {
+  color: hsl(240, 100%, 5%);
+}
+input:hover {
+  background-color: hsl(240, 100%, 5%);
+}
